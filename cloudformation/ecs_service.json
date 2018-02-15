@@ -62,7 +62,7 @@
       "MaxLength": "50",
       "MinLength": "1",
       "Type": "String",
-      "Default": "umgmt"
+      "Default": "sample"
     },
     "ECSServiceDesiredCapacity": {
       "MinValue": "1",
